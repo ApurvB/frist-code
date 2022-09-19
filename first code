@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Name.        :Apurv bhardwaj.\nProgramme    :B.Tech(CS&BS) \nRegister no. :RA211042010050 \nVALID FROM   :Jun2022 TO MAY- 2025");
+
+    return 0;
+}
